@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/dev python3
 """
 Basic async
 """
