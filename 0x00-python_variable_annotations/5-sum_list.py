@@ -11,5 +11,3 @@ def sum_list(input_list: List[float]) -> float:
     the string representation of the float.
     """
     return sum(input_list)
-
-
